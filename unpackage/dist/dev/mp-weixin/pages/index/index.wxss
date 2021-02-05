@@ -1,0 +1,120 @@
+
+.page.data-v-57280228{
+	padding-bottom: 50rpx;
+}
+.top-view.data-v-57280228{
+	width: 690rpx;
+	margin-left: 30rpx;
+	margin-right: 30rpx;
+	height: 100rpx;
+	background-color: rgb(68,68,68);
+	border-radius: 14rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-bottom: 20rpx;
+}
+.top-view-left.data-v-57280228{
+	height: 45rpx;
+	width: 45rpx;
+	margin-left: 25rpx;
+}
+.top-view-right.data-v-57280228{
+	margin-left: 30rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	font-size: 24rpx;
+	color: #9e9e9e;
+}
+.listview.data-v-57280228{
+	width: 730rpx;
+	margin-left: 10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.videobox.data-v-57280228{
+	width: 360rpx;
+	height: 460rpx;
+	margin-top: 10rpx;
+	position: relative;
+}
+.videobox-bg.data-v-57280228{
+	width: 360rpx;
+	height: 460rpx;
+	position: absolute;
+}
+.videobox-toptext.data-v-57280228{
+	position: absolute;
+	left: 22rpx;
+	top: 22rpx;
+	font-size: 24rpx;
+	padding: 10rpx;
+	border-radius: 10rpx;
+	background-color: rgb(171,171,171);
+	color: #fff;
+	opacity: 0.7;
+	z-index: 1;
+}
+.videobox-head.data-v-57280228{
+	width: 50rpx;
+	height: 50rpx;
+	border-radius: 50rpx;
+	border: 2rpx solid #3a3a3a;
+	z-index: 2;
+	position: absolute;
+	left: 16rpx; 
+	bottom: 60rpx;
+}
+.videobox-title.data-v-57280228{
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 24rpx;
+	max-width: 270rpx;
+	overflow: hidden;
+	text-overflow:ellipsis; 
+	white-space: nowrap;
+	z-index: 2;
+	position: absolute;
+	left: 90rpx; 
+	bottom: 60rpx;
+	color: #fff;
+}
+.videobox-info.data-v-57280228{
+	height: 50rpx;
+	line-height: 50rpx;
+	font-size: 24rpx;
+	max-width: 270rpx;
+	overflow: hidden;
+	text-overflow:ellipsis; 
+	white-space: nowrap;
+	z-index: 2;
+	position: absolute;
+	left: 20rpx; 
+	bottom: 10rpx;
+	color: #fff;
+}
+.videobox-num.data-v-57280228{
+	font-size: 20rpx;
+	color: #fff;
+	position: absolute;
+	right: 16rpx; 
+	bottom: 20rpx;
+}
+.img.data-v-57280228{
+	width: 750rpx;
+	height: 1500rpx;
+}
+
